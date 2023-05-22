@@ -1,0 +1,62 @@
+D:\005_Study\VB .NET\ToolsNet\Tools.Net\Tools.Net\bin\Debug\Tools.Net.exe.config
+D:\005_Study\VB .NET\ToolsNet\Tools.Net\Tools.Net\bin\Debug\Tools.Net.exe
+D:\005_Study\VB .NET\ToolsNet\Tools.Net\Tools.Net\bin\Debug\Tools.Net.pdb
+D:\005_Study\VB .NET\ToolsNet\Tools.Net\Tools.Net\bin\Debug\Tools.Net.xml
+D:\005_Study\VB .NET\ToolsNet\Tools.Net\Tools.Net\obj\Debug\Tools.Net.LoadForm.resources
+D:\005_Study\VB .NET\ToolsNet\Tools.Net\Tools.Net\obj\Debug\Tools.Net.Resources.resources
+D:\005_Study\VB .NET\ToolsNet\Tools.Net\Tools.Net\obj\Debug\Tools.Net.vbproj.GenerateResource.cache
+D:\005_Study\VB .NET\ToolsNet\Tools.Net\Tools.Net\obj\Debug\Tools.Net.vbproj.CoreCompileInputs.cache
+D:\005_Study\VB .NET\ToolsNet\Tools.Net\Tools.Net\obj\Debug\Tools.Net.exe
+D:\005_Study\VB .NET\ToolsNet\Tools.Net\Tools.Net\obj\Debug\Tools.Net.xml
+D:\005_Study\VB .NET\ToolsNet\Tools.Net\Tools.Net\obj\Debug\Tools.Net.pdb
+D:\005_Study\VB .NET\ToolsNet\Tools.Net\Tools.Net\obj\Debug\Tools.Net.MenuForm.resources
+D:\005_Study\VB .NET\ToolsNet\Tools.Net\Tools.Net\obj\Debug\Tools.Net.ColourConvertionForm.resources
+D:\005_Study\VB .NET\ToolsNet\Tools.Net\Tools.Net\obj\Debug\Tools.Net.DateFunctionForm.resources
+D:\005_Study\VB .NET\ToolsNet\Tools.Net\Tools.Net\obj\Debug\Tools.Net.NetworkForm.resources
+D:\005_Study\VB .NET\ToolsNet\Tools.Net\Tools.Net\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+D:\005_Study\VB .NET\ToolsNet\Tools.Net\Tools.Net\bin\Debug\CrystalDecisions.ReportSource.dll
+D:\005_Study\VB .NET\ToolsNet\Tools.Net\Tools.Net\bin\Debug\CrystalDecisions.Shared.dll
+D:\005_Study\VB .NET\ToolsNet\Tools.Net\Tools.Net\bin\Debug\CrystalDecisions.Windows.Forms.dll
+D:\005_Study\VB .NET\ToolsNet\Tools.Net\Tools.Net\bin\Debug\stdole.dll
+D:\005_Study\VB .NET\ToolsNet\Tools.Net\Tools.Net\bin\Debug\CrystalDecisions.CrystalReports.Engine.xml
+D:\005_Study\VB .NET\ToolsNet\Tools.Net\Tools.Net\bin\Debug\CrystalDecisions.ReportSource.xml
+D:\005_Study\VB .NET\ToolsNet\Tools.Net\Tools.Net\bin\Debug\CrystalDecisions.Shared.xml
+D:\005_Study\VB .NET\ToolsNet\Tools.Net\Tools.Net\bin\Debug\CrystalDecisions.Windows.Forms.xml
+D:\005_Study\VB .NET\ToolsNet\Tools.Net\Tools.Net\obj\Debug\Tools.Net.Encryption.resources
+D:\005_Study\VB .NET\ToolsNet\Tools.Net\Tools.Net\obj\Debug\Tools.Net.vbproj.CopyComplete
+D:\005_Study\VB .NET\ToolsNet\Tools.Net\Tools.Net\obj\Debug\Tools.Net.WMITableForm.resources
+D:\005_Study\VB .NET\ToolsNet\Tools.Net\Tools.Net\obj\Debug\Tools.Net.vbprojAssemblyReference.cache
+D:\005_Study\VB .NET\ToolsNet\Tools.Net\Tools.Net\obj\Debug\Tools.Net.PLCForm.resources
+D:\005_Study\VB .NET\ToolsNet\Tools.Net\Tools.Net\obj\Debug\Tools.Net.ModemSMSForm.resources
+D:\005_Study\VB .NET\ToolsNet\Tools.Net\Tools.Net\obj\Debug\Tools.Net.FormSpeech.resources
+D:\002_Project\ToolsNet\Tools.Net\Tools.Net\bin\Debug\Tools.Net.exe.config
+D:\002_Project\ToolsNet\Tools.Net\Tools.Net\bin\Debug\Tools.Net.exe
+D:\002_Project\ToolsNet\Tools.Net\Tools.Net\bin\Debug\Tools.Net.pdb
+D:\002_Project\ToolsNet\Tools.Net\Tools.Net\bin\Debug\Tools.Net.xml
+D:\002_Project\ToolsNet\Tools.Net\Tools.Net\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+D:\002_Project\ToolsNet\Tools.Net\Tools.Net\bin\Debug\CrystalDecisions.ReportSource.dll
+D:\002_Project\ToolsNet\Tools.Net\Tools.Net\bin\Debug\CrystalDecisions.Shared.dll
+D:\002_Project\ToolsNet\Tools.Net\Tools.Net\bin\Debug\CrystalDecisions.Windows.Forms.dll
+D:\002_Project\ToolsNet\Tools.Net\Tools.Net\bin\Debug\stdole.dll
+D:\002_Project\ToolsNet\Tools.Net\Tools.Net\bin\Debug\CrystalDecisions.CrystalReports.Engine.xml
+D:\002_Project\ToolsNet\Tools.Net\Tools.Net\bin\Debug\CrystalDecisions.ReportSource.xml
+D:\002_Project\ToolsNet\Tools.Net\Tools.Net\bin\Debug\CrystalDecisions.Shared.xml
+D:\002_Project\ToolsNet\Tools.Net\Tools.Net\bin\Debug\CrystalDecisions.Windows.Forms.xml
+D:\002_Project\ToolsNet\Tools.Net\Tools.Net\obj\Debug\Tools.Net.ColourConvertionForm.resources
+D:\002_Project\ToolsNet\Tools.Net\Tools.Net\obj\Debug\Tools.Net.DateFunctionForm.resources
+D:\002_Project\ToolsNet\Tools.Net\Tools.Net\obj\Debug\Tools.Net.LoadForm.resources
+D:\002_Project\ToolsNet\Tools.Net\Tools.Net\obj\Debug\Tools.Net.MenuForm.resources
+D:\002_Project\ToolsNet\Tools.Net\Tools.Net\obj\Debug\Tools.Net.ModemSMSForm.resources
+D:\002_Project\ToolsNet\Tools.Net\Tools.Net\obj\Debug\Tools.Net.Resources.resources
+D:\002_Project\ToolsNet\Tools.Net\Tools.Net\obj\Debug\Tools.Net.NetworkForm.resources
+D:\002_Project\ToolsNet\Tools.Net\Tools.Net\obj\Debug\Tools.Net.WMITableForm.resources
+D:\002_Project\ToolsNet\Tools.Net\Tools.Net\obj\Debug\Tools.Net.PLCForm.resources
+D:\002_Project\ToolsNet\Tools.Net\Tools.Net\obj\Debug\Tools.Net.Encryption.resources
+D:\002_Project\ToolsNet\Tools.Net\Tools.Net\obj\Debug\Tools.Net.FormSpeech.resources
+D:\002_Project\ToolsNet\Tools.Net\Tools.Net\obj\Debug\Tools.Net.vbproj.GenerateResource.cache
+D:\002_Project\ToolsNet\Tools.Net\Tools.Net\obj\Debug\Tools.Net.vbproj.CoreCompileInputs.cache
+D:\002_Project\ToolsNet\Tools.Net\Tools.Net\obj\Debug\Tools.Net.vbproj.CopyComplete
+D:\002_Project\ToolsNet\Tools.Net\Tools.Net\obj\Debug\Tools.Net.exe
+D:\002_Project\ToolsNet\Tools.Net\Tools.Net\obj\Debug\Tools.Net.xml
+D:\002_Project\ToolsNet\Tools.Net\Tools.Net\obj\Debug\Tools.Net.pdb
+D:\002_Project\ToolsNet\Tools.Net\Tools.Net\obj\Debug\Tools.Net.vbproj.AssemblyReference.cache
