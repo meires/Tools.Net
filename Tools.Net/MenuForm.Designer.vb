@@ -96,7 +96,7 @@ Partial Class MenuForm
         Me.DateAndTimeButton.BackColor = System.Drawing.Color.Purple
         Me.DateAndTimeButton.FlatStyle = System.Windows.Forms.FlatStyle.Flat
         Me.DateAndTimeButton.ForeColor = System.Drawing.Color.White
-        Me.DateAndTimeButton.Location = New System.Drawing.Point(15, 20)
+        Me.DateAndTimeButton.Location = New System.Drawing.Point(15, 21)
         Me.DateAndTimeButton.Name = "DateAndTimeButton"
         Me.DateAndTimeButton.Size = New System.Drawing.Size(115, 27)
         Me.DateAndTimeButton.TabIndex = 0

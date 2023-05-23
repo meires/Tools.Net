@@ -10,6 +10,9 @@ Public Class FormSpeech
 
 
     Dim sp As SpeechSynthesizer = New SpeechSynthesizer()
+
+    Dim iVoiceGender As Integer
+
     Public Sub New()
 
         ' This call is required by the designer.
@@ -42,7 +45,9 @@ Public Class FormSpeech
 
         Try
 
-            sp.SelectVoiceByHints(VoiceGender.Neutral, VoiceAge.NotSet, 10, New System.Globalization.CultureInfo("id-ID"))
+
+
+            sp.SelectVoiceByHints(iVoiceGender, VoiceAge.NotSet, iVoiceGender, New System.Globalization.CultureInfo("id-ID"))
 
 
             sp.Speak(SpeechRichTextBox.Text)
@@ -90,5 +95,48 @@ Public Class FormSpeech
 
     Private Sub Button3_Click(sender As Object, e As EventArgs) Handles Button3.Click
         My.Computer.Audio.Play(AudioFilePathTextBox.Text, AudioPlayMode.Background)
+    End Sub
+
+    Private Sub VGRadioButton_CheckedChanged(sender As Object, e As EventArgs) Handles VGNSRadioButton.CheckedChanged, VGNeutralRadioButton.CheckedChanged, VGMaleRadioButton.CheckedChanged, VGFemaleRadioButton.CheckedChanged
+
+        Try
+
+            If VGNSRadioButton.Checked Then
+
+                iVoiceGender = 0
+
+                Exit Sub
+
+            End If
+
+            If VGMaleRadioButton.Checked Then
+
+                iVoiceGender = 1
+
+                Exit Sub
+
+            End If
+
+
+            If VGFemaleRadioButton.Checked Then
+
+                iVoiceGender = 2
+
+                Exit Sub
+
+            End If
+
+            If VGNeutralRadioButton.Checked Then
+
+                iVoiceGender = 3
+
+                Exit Sub
+
+            End If
+
+        Catch ex As Exception
+            MsgBox(ex.Message)
+        End Try
+
     End Sub
 End Class
