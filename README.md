@@ -32,5 +32,5 @@ Version 1.0.0.0
 ■ Modem 
 
 ■ Speech
-
+  Convertion Text to speech with Custom voice
      
